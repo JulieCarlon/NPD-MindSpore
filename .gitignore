@@ -1,0 +1,7 @@
+*ckpt
+record
+new_check
+/data/
+*__pycache__/
+*.ipynb_checkpoints/
+
