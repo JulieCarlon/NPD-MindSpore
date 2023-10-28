@@ -24,9 +24,9 @@ If you use this paper/code in your research, please consider citing us:
 
 ```
 @inproceedings{
-anonymous2023neural,
+zhu2023neural,
 title={Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features},
-author={Anonymous},
+author={Zhu, Mingli and Wei, Shaokui and Zha, Hongyuan and Wu, Baoyuan},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=VFhN15Vlkj}
